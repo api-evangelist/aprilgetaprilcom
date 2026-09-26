@@ -248,7 +248,7 @@ hosts:
   control:
     path: /.well-known/apis-io-negative-control-7f3ab91c.json
     status: 200
-    bytes: 45269
+    bytes: 45029
   documents:
   - path: /.well-known/security.txt
     status: 200
@@ -297,7 +297,7 @@ hosts:
   control:
     path: /.well-known/apis-io-negative-control-7f3ab91c.json
     status: 200
-    bytes: 337648
+    bytes: 337647
   documents:
   - path: /.well-known/security.txt
     status: 200
