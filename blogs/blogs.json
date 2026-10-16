@@ -2,6 +2,13 @@
   "repo": "aprilgetaprilcom",
   "feeds": [
     {
+      "source": "https://www.getapril.com/resources/Blog",
+      "feed_url": "https://www.getapril.com/resources/Blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://www.getapril.com/resources/Press",
       "feed_url": "https://www.getapril.com/resources/Press",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
